@@ -1,1 +1,2 @@
 # emr
+** neler gördüm denee
