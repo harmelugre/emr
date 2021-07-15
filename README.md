@@ -1,3 +1,2 @@
 # emr
-naber bebek
-benim 
+** neler gördüm denee
