@@ -1,6 +1,11 @@
 one
 two
-three
-four
 son
 mon
+three
+four
+emreh
+serpil
+volki
+tolki
+
